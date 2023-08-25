@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emoji support on Jcode部落格</title>
+    <link>https://jcode0x378.github.io/tags/emoji-support/</link>
+    <description>Recent content in Emoji support on Jcode部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 01 Aug 2023 22:53:58 +0530</lastBuildDate><atom:link href="https://jcode0x378.github.io/tags/emoji-support/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>React</title>
+      <link>https://jcode0x378.github.io/blogs/emoji-support/</link>
+      <pubDate>Tue, 01 Aug 2023 22:53:58 +0530</pubDate>
+      
+      <guid>https://jcode0x378.github.io/blogs/emoji-support/</guid>
+      <description>React 資料會交給 JS 管理，畫面則由 JSX 處理來達到，關注點分離與元件化(資料歸資料畫面歸畫面)，達到更簡單處理 JS 與 HTML 的關係。
+React 基本概述 React 以組件(component)為核心。 元件化-用來解決大量開發重複性的邏輯，達到重複利用的效果。 讓多人開發有更佳的協調性，更容易理解和除錯。 可以延伸到手機應用開發。 React Element React.createElement(型態,[屬性],[子元件]) The emojify function can be called directly in templates or Inline Shortcodes.
+To enable emoji globally, set enableEmoji to true in your site’s configuration and then you can type emoji shorthand codes directly in content files; e.g.
+The Emoji cheat sheet is a useful reference for emoji shorthand codes.
+N.B. The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform.</description>
+    </item>
+    
+  </channel>
+</rss>

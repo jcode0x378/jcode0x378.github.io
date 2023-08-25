@@ -6,31 +6,40 @@
     <description>Recent content in Tags on Jcode部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 01 Aug 2023 22:53:58 +0530</lastBuildDate><atom:link href="https://jcode0x378.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Emoji support</title>
-      <link>https://jcode0x378.github.io/tags/emoji-support/</link>
-      <pubDate>Tue, 01 Aug 2023 22:53:58 +0530</pubDate>
-      
-      <guid>https://jcode0x378.github.io/tags/emoji-support/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 03 Aug 2023 22:41:10 +0530</lastBuildDate><atom:link href="https://jcode0x378.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>example</title>
       <link>https://jcode0x378.github.io/tags/example/</link>
-      <pubDate>Tue, 01 Aug 2023 22:53:58 +0530</pubDate>
+      <pubDate>Thu, 03 Aug 2023 22:41:10 +0530</pubDate>
       
       <guid>https://jcode0x378.github.io/tags/example/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Placeholder text</title>
+      <link>https://jcode0x378.github.io/tags/placeholder-text/</link>
+      <pubDate>Thu, 03 Aug 2023 22:41:10 +0530</pubDate>
+      
+      <guid>https://jcode0x378.github.io/tags/placeholder-text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sample</title>
       <link>https://jcode0x378.github.io/tags/sample/</link>
-      <pubDate>Tue, 01 Aug 2023 22:53:58 +0530</pubDate>
+      <pubDate>Thu, 03 Aug 2023 22:41:10 +0530</pubDate>
       
       <guid>https://jcode0x378.github.io/tags/sample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emoji support</title>
+      <link>https://jcode0x378.github.io/tags/emoji-support/</link>
+      <pubDate>Tue, 01 Aug 2023 22:53:58 +0530</pubDate>
+      
+      <guid>https://jcode0x378.github.io/tags/emoji-support/</guid>
       <description></description>
     </item>
     
@@ -49,15 +58,6 @@
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
       
       <guid>https://jcode0x378.github.io/tags/mathjax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Placeholder text</title>
-      <link>https://jcode0x378.github.io/tags/placeholder-text/</link>
-      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      
-      <guid>https://jcode0x378.github.io/tags/placeholder-text/</guid>
       <description></description>
     </item>
     

@@ -6,18 +6,26 @@
     <description>Recent content in Blogs on Jcode部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 01 Aug 2023 22:53:58 +0530</lastBuildDate><atom:link href="https://jcode0x378.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Aug 2023 22:41:10 +0530</lastBuildDate><atom:link href="https://jcode0x378.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JavaScript</title>
+      <link>https://jcode0x378.github.io/blogs/placeholder-text/</link>
+      <pubDate>Thu, 03 Aug 2023 22:41:10 +0530</pubDate>
+      
+      <guid>https://jcode0x378.github.io/blogs/placeholder-text/</guid>
+      <description>JavaScript ES6 筆記 宣告 const 常數 let 變數 const、let、var 差異 外部連結
+箭頭函式 Default Parameter 參數的預設值 類別與物件 定義類別並產生物件 Constructor 定義建構式 Attribute 定義存取屬性 Metoh 定義呼叫方法 類別繼承 定義子類別並操作子類別物件 原型鍊 Static 定義呼叫靜態方法 非同步程式 使用回呼函式處理非同步程式 使用 Promise 處理非同步程式 </description>
+    </item>
+    
     <item>
       <title>React</title>
-      <link>https://jcode0x378.github.io/blogs/emoji-support/</link>
+      <link>https://jcode0x378.github.io/blogs/react/</link>
       <pubDate>Tue, 01 Aug 2023 22:53:58 +0530</pubDate>
       
-      <guid>https://jcode0x378.github.io/blogs/emoji-support/</guid>
+      <guid>https://jcode0x378.github.io/blogs/react/</guid>
       <description>React 資料會交給 JS 管理，畫面則由 JSX 處理來達到，關注點分離與元件化(資料歸資料畫面歸畫面)，達到更簡單處理 JS 與 HTML 的關係。
-React 基本概述 React 以組件(component)為核心。 元件化-用來解決大量開發重複性的邏輯，達到重複利用的效果。 讓多人開發有更佳的協調性，更容易理解和除錯。 可以延伸到手機應用開發。 React Element React.createElement(型態,[屬性],[子元件]) The emojify function can be called directly in templates or Inline Shortcodes.
-To enable emoji globally, set enableEmoji to true in your site’s configuration and then you can type emoji shorthand codes directly in content files; e.g.
-The Emoji cheat sheet is a useful reference for emoji shorthand codes.
-N.B. The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform.</description>
+React 基本概述 React 以組件(component)為核心。 元件化-用來解決大量開發重複性的邏輯，達到重複利用的效果。 讓多人開發有更佳的協調性，更容易理解和除錯。 可以延伸到手機應用開發。 React Element React.createElement(型態,[屬性],[子元件]) React 設計理念 N.B. react
+Component 組件 Props 組件的屬性 巢狀組件結構 State 組件的狀態 Lifecycle 組件的生命週期 JSX 語法與 Babel 編輯器 JSX 基本使用與動態資料 JSX 套用樣式 CSS Style 事件處理 Event Handling 表單處理 From Handling 程式碼分工 Code Responsibility 選項開關元件 井字遊戲實務範例 Redux </description>
     </item>
     
     <item>
@@ -35,26 +43,6 @@ $$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | &
     </item>
     
     <item>
-      <title>Markdown Syntax</title>
-      <link>https://jcode0x378.github.io/blogs/markdown-syntax/</link>
-      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
-      
-      <guid>https://jcode0x378.github.io/blogs/markdown-syntax/</guid>
-      <description>Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga.</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://jcode0x378.github.io/blogs/placeholder-text/</link>
-      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      
-      <guid>https://jcode0x378.github.io/blogs/placeholder-text/</guid>
-      <description>Lorem est tota propiore conpellat pectoribus de pectora summo.
-Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
-Exierant elisi ambit vivere dedere Duce pollice Eris modo Spargitque ferrea quos palude Rursus nulli murmur; hastile inridet ut ab gravi sententia!</description>
-    </item>
-    
-    <item>
       <title>Rich Content</title>
       <link>https://jcode0x378.github.io/blogs/rich-content/</link>
       <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
@@ -63,6 +51,18 @@ Exierant elisi ambit vivere dedere Duce pollice Eris modo Spargitque ferrea quos
       <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
 Gist Simple Shortcode {{&amp;lt; gist spf13 7896402 &amp;#34;img.html&amp;#34; &amp;gt;}} Twitter Simple Shortcode {{&amp;lt; tweet GoHugoIO 1315233626070503424 &amp;gt;}} Profile is a customizable single-page portfolio theme for Hugo featuring a contact form and blog. Made by @gurusabarishh.https://t.co/KwYcwfdy16
 &amp;mdash; GoHugo.io (@GoHugoIO) October 11, 2020 Vimeo Simple Shortcode {{&amp;lt; vimeo 146022717 &amp;gt;}} Youtube Simple Shortcode {{&amp;lt; youtube w7Ft2ymGmfc &amp;gt;}} Theme Custom Shortcodes These shortcodes are not Hugo built-ins, but are provided by the theme.</description>
+    </item>
+    
+    <item>
+      <title>Markdown語法</title>
+      <link>https://jcode0x378.github.io/blogs/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcode0x378.github.io/blogs/markdown/</guid>
+      <description>Blockquotes The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a footer or cite element, and optionally with in-line changes such as annotations and abbreviations.
+Blockquote without attribution Tiam, ad mint andaepu dandae nostion secatur sequo quae. Note that you can use Markdown syntax within a blockquote.
+Blockquote with attribution Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.
+— Rob Pike1</description>
     </item>
     
   </channel>

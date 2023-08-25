@@ -9,15 +9,13 @@
     <lastBuildDate>Tue, 01 Aug 2023 22:53:58 +0530</lastBuildDate><atom:link href="https://jcode0x378.github.io/tags/emoji-support/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>React</title>
-      <link>https://jcode0x378.github.io/blogs/emoji-support/</link>
+      <link>https://jcode0x378.github.io/blogs/react/</link>
       <pubDate>Tue, 01 Aug 2023 22:53:58 +0530</pubDate>
       
-      <guid>https://jcode0x378.github.io/blogs/emoji-support/</guid>
+      <guid>https://jcode0x378.github.io/blogs/react/</guid>
       <description>React 資料會交給 JS 管理，畫面則由 JSX 處理來達到，關注點分離與元件化(資料歸資料畫面歸畫面)，達到更簡單處理 JS 與 HTML 的關係。
-React 基本概述 React 以組件(component)為核心。 元件化-用來解決大量開發重複性的邏輯，達到重複利用的效果。 讓多人開發有更佳的協調性，更容易理解和除錯。 可以延伸到手機應用開發。 React Element React.createElement(型態,[屬性],[子元件]) The emojify function can be called directly in templates or Inline Shortcodes.
-To enable emoji globally, set enableEmoji to true in your site’s configuration and then you can type emoji shorthand codes directly in content files; e.g.
-The Emoji cheat sheet is a useful reference for emoji shorthand codes.
-N.B. The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform.</description>
+React 基本概述 React 以組件(component)為核心。 元件化-用來解決大量開發重複性的邏輯，達到重複利用的效果。 讓多人開發有更佳的協調性，更容易理解和除錯。 可以延伸到手機應用開發。 React Element React.createElement(型態,[屬性],[子元件]) React 設計理念 N.B. react
+Component 組件 Props 組件的屬性 巢狀組件結構 State 組件的狀態 Lifecycle 組件的生命週期 JSX 語法與 Babel 編輯器 JSX 基本使用與動態資料 JSX 套用樣式 CSS Style 事件處理 Event Handling 表單處理 From Handling 程式碼分工 Code Responsibility 選項開關元件 井字遊戲實務範例 Redux </description>
     </item>
     
   </channel>

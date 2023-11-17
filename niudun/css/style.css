@@ -1,0 +1,13 @@
+* {
+  font-family: 'Noto Sans TC', sans-serif;
+}
+#line-float-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+}
+.custom-navbar {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jcode0x378.github.io/blog</id>
+    <title>Jeffrey Blog</title>
+    <updated>2024-08-31T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jcode0x378.github.io/blog"/>
+    <subtitle>Jeffrey Blog</subtitle>
+    <icon>https://jcode0x378.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[New Post]]></title>
+        <id>future-plans</id>
+        <link href="https://jcode0x378.github.io/blog/future-plans"/>
+        <updated>2024-08-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[這個問題在面試中會是很常被問的問題，想答得好除了下列幾個大方向也需要針對公司及當下個人狀況思考，來得出一個相對理想的答案。]]></summary>
+        <author>
+            <name>Jeffrey</name>
+            <uri>https://github.com/jcode0x378</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://jcode0x378.github.io/blog/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TEST]]></summary>
+        <author>
+            <name>Jeffrey</name>
+            <uri>https://github.com/jcode0x378</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MDX Blog Post]]></title>
+        <id>mdx-blog-post</id>
+        <link href="https://jcode0x378.github.io/blog/mdx-blog-post"/>
+        <updated>2021-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
+        <author>
+            <name>Jeffrey</name>
+            <uri>https://github.com/jcode0x378</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Blog Post]]></title>
+        <id>first-blog-post</id>
+        <link href="https://jcode0x378.github.io/blog/first-blog-post"/>
+        <updated>2019-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TEST]]></summary>
+        <author>
+            <name>Jeffrey</name>
+            <uri>https://github.com/wgao19</uri>
+        </author>
+    </entry>
+</feed>

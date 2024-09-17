@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Jeffrey Blog</title>
+        <link>https://jcode0x378.github.io/blog</link>
+        <description>Jeffrey Blog</description>
+        <lastBuildDate>Sat, 31 Aug 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Post]]></title>
+            <link>https://jcode0x378.github.io/blog/future-plans</link>
+            <guid>future-plans</guid>
+            <pubDate>Sat, 31 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[這個問題在面試中會是很常被問的問題，想答得好除了下列幾個大方向也需要針對公司及當下個人狀況思考，來得出一個相對理想的答案。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://jcode0x378.github.io/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[TEST]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MDX Blog Post]]></title>
+            <link>https://jcode0x378.github.io/blog/mdx-blog-post</link>
+            <guid>mdx-blog-post</guid>
+            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[First Blog Post]]></title>
+            <link>https://jcode0x378.github.io/blog/first-blog-post</link>
+            <guid>first-blog-post</guid>
+            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[TEST]]></description>
+        </item>
+    </channel>
+</rss>
